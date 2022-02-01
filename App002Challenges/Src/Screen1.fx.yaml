@@ -1,0 +1,8 @@
+Screen1 As screen:
+
+    Label1 As label:
+        Text: ="TEST GITHUB"
+        X: =258
+        Y: =70
+        ZIndex: =1
+
