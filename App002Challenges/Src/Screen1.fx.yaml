@@ -6,3 +6,10 @@ Screen1 As screen:
         Y: =70
         ZIndex: =1
 
+    "'ClickMe! button' As button":
+        Fill: =RGBA(246, 88, 16, 1)
+        Text: ="ClickMe!"
+        X: =348
+        Y: =216
+        ZIndex: =2
+
