@@ -8,7 +8,7 @@ Screen1 As screen:
 
     "'ClickMe! button' As button":
         Fill: =RGBA(246, 88, 16, 1)
-        Text: ="ClickMe!"
+        Text: ="Volgende"
         X: =348
         Y: =216
         ZIndex: =2
